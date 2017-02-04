@@ -9,4 +9,4 @@ optional arguments:
   
   -l LANG, --lang LANG  which language to crawl [zh, ja, ko]
   
-  -n NUM, --num NUM     the number of pages to crawl for each category
+  -n NUM, --num NUM     the minimun number of pages to crawl for each category
