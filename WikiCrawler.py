@@ -81,7 +81,7 @@ if __name__ == '__main__':
     base = base_dict[lang]
     categories = readCategoryFile(lang)
     print categories
-    outFile = lang + '_raw.txt'
+    outFile = './acl_2017/' + lang + '_raw.txt'
     fo = open(outFile, 'w')
     data = {}
     category_count = []
