@@ -22,4 +22,4 @@ optional arguments:
   
   -l LANG, --lang LANG  which language to crawl [zh, ja, ko]
   
-  -n NUM, --num NUM     the minimun number of pages to you wish to crawl for each category (may not be able to reach this number)
+  -n NUM, --num NUM     the minimun number of pages you wish to crawl for each category (may not be able to reach this number)
