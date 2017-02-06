@@ -1,6 +1,10 @@
 # Wikipedia_title_dataset
 This is an implementation for crawling the title and its corresponding categories of an Wikipedia page.
 The crawler will crawl the categories according to category_list_lang.txt 
+
+The dataset is already in the folder acl2017_data.
+Running the crawler will cover the data in the folder.
+
 # Usage
 python crawl.py [-h] -l LANG -n NUM 
 
