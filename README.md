@@ -1,4 +1,8 @@
 # Wikipedia_title_dataset
+This repo consists of the data used for acl 2017 Submission 
+
+Learning Character-level Compositionality with Visual Features
+
 This is an implementation for crawling the title and its corresponding categories of an Wikipedia page.
 
 The crawler will crawl the categories according to category_list_lang.txt 
