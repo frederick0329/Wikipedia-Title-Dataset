@@ -1,7 +1,7 @@
 # Wikipedia_title_dataset
 This repo consists of the data used for acl 2017 
 
-Learning Character-level Compositionality with Visual Features
+[Learning Character-level Compositionality with Visual Features](https://arxiv.org/abs/1704.04859)
 
 This is an implementation for crawling the title and its corresponding categories of an Wikipedia page.
 
