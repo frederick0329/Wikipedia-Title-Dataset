@@ -32,4 +32,4 @@ optional arguments:
   -n NUM, --num NUM     the minimun number of pages you wish to crawl for each category (may not be able to reach this number)
 
 # Data split
-The data split and the code for the paper can be found in the in this [repo](https://github.com/frederick0329/Learning-character-level/)
+The data split and the code for the paper can be found in this [repo](https://github.com/frederick0329/Learning-character-level/)
