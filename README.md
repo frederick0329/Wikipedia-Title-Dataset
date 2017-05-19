@@ -10,19 +10,20 @@ The crawler will crawl the categories according to category_list_lang.txt
 The dataset is already crawled in the folder acl2017_data
 
 with the following command:  
-
+```
 python crawl.py -l zh -n 100000
 
 python crawl.py -l ja -n 100000
 
 python crawl.py -l ko -n 100000
-
+```
 Running the crawler again will cover the data in the folder.
 
 
 # Usage
+```
 python crawl.py [-h] -l LANG -n NUM 
-
+```
 optional arguments:
 
   -h, --help            show this help message and exit
