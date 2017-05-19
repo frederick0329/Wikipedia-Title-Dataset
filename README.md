@@ -1,5 +1,5 @@
 # Wikipedia_title_dataset
-This repo consists of the data used for acl 2017 Submission 
+This repo consists of the data used for acl 2017 
 
 Learning Character-level Compositionality with Visual Features
 
@@ -30,3 +30,6 @@ optional arguments:
   -l LANG, --lang LANG  which language to crawl [zh, ja, ko]
   
   -n NUM, --num NUM     the minimun number of pages you wish to crawl for each category (may not be able to reach this number)
+
+# Data split
+The data split and the code for the paper can be found in the in this [repo](https://github.com/frederick0329/Learning-character-level/)
